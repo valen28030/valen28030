@@ -94,7 +94,7 @@ Soy un **estudiante de Desarrollo de Aplicaciones Multiplataforma** con pasión 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=valen28030&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=valen28030&theme=radical&border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=valen28030&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=valen28030&theme=radical&hide_border=false)
 <br/>
