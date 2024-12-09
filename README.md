@@ -105,7 +105,7 @@ Soy un **estudiante de Desarrollo de Aplicaciones Multiplataforma** con pasión 
 
 ## 📫 Contacto 
 - **Email**: carlosvalenciasanchez96@gmail.com
-- **LinkedIn**: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
+- **LinkedIn**: [www.linkedin.com/in/carlos-valencia-sánchez-203a7b142)
 
 Siempre estoy abierto a nuevas oportunidades de aprendizaje y colaboración. ¡No dudes en contactarme para discutir proyectos o ideas interesantes! 
 
